@@ -1,0 +1,36 @@
+For a PC
+----------------------
+git config user.name
+git config user.email
+#to configure 
+git config --global user.name username
+git config --global user.email you@domain.com
+
+
+For a project
+---------------------------
+git init - for a project - used only one time for a project
+
+git remote
+#origin
+
+git remote -v
+
+git remote rm origin
+
+
+--linking to the github to this project
+
+git remote add origin https://github.com/drpoudel3785/dotnetlearning
+
+Every Day Task
+--------------------------------
+git status - every time
+git add .  = add all files and folder to a local repository or working tree
+git commit -m "Proper mesagege"
+
+git log
+git push -u origin master == to push the content from local to remote
+
+----Checking remote origin (github.com sanga link cha or chhaina
+)

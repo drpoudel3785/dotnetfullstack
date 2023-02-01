@@ -26,3 +26,48 @@ h1{
     background-color:#49494b;
     min-height:150px;
 }
+
+.row{
+    min-height:10px;
+}
+.col100{
+    width:100%;
+}
+.col50{
+    width:50%;
+    float:left;
+}
+
+.col75{
+    width:75%;
+    float:left;
+}
+.col25{
+    width:25%;
+    float:left;
+}
+
+@media screen and (max-width:740px){
+    .container{
+        width:700px;
+        background-color: #ff0000;
+    }
+
+    .colmd50{
+        width:50%;
+        float:left;
+    }
+
+}
+
+@media screen and (max-width:480px){
+
+    .container{
+        width:700px;
+        background-color: #8aeba7;
+    }
+
+    .colsm100{
+        width:100%;
+    }   
+}

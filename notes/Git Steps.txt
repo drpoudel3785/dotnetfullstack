@@ -1,5 +1,5 @@
 For a PC
-----------------------
+---------------------------------------
 git config user.name
 git config user.email
 #to configure 
@@ -28,8 +28,7 @@ Every Day Task
 git status - every time
 git add .  = add all files and folder to a local repository or working tree
 git commit -m "Proper mesagege"
-
-git log
+git log == Commit history
 git push -u origin master == to push the content from local to remote
 
 ----Checking remote origin (github.com sanga link cha or chhaina

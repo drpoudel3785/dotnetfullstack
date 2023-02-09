@@ -1,11 +1,17 @@
 /* Universal Selector*/
+
+.mark{
+    background-color: #e4e4eb !important;
+}
+
+
 *{
     margin:0px;
     padding:0px;
 }
 /* Type Selector*/
 body{
-    background-color: #e4e4eb;
+    background-color: #5858b2;
 }
 
 h1{
